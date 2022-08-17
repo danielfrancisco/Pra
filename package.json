@@ -1,0 +1,11 @@
+{
+  "name": "devpra",
+  "version": "1.0.0",
+  "description": "\"practice\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daniel",
+  "license": "ISC"
+}
